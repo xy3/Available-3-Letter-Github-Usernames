@@ -1,3 +1,5 @@
+## Last updated: October 4th 2019
+
 # Available 3 Letter Github Usernames
 A list of about 2 thousand 3 letter usernames that are available to register. 
 
