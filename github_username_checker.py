@@ -59,7 +59,7 @@ def main():
             f.write("\n".join(taken))       
             f.write("\n")
 
-        print(f"\nAvailable: {len(available)} | Taken: {len(taken)} Unchecked/failed: {len(unchecked)}\n")
+        print(f"\nAvailable: {len(available)} | Taken: {len(taken)} | Unchecked/failed: {len(unchecked)}\n")
 
     except KeyboardInterrupt:
         sys.exit() # ctrl c 
